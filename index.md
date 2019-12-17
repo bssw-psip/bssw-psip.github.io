@@ -4,6 +4,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
+
+<a href="/practice-guides">Guides to PSIP Practices</a><br/>
+
+<a href="/ptc-catalog/catalog/Catalog.html">PTC Catalog</a><br/>
+
+## Posts
 {% for post in site.posts %}
 <div class="post-preview">
 <span class="post-title alignable pull-left">
