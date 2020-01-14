@@ -7,7 +7,7 @@ layout: default
 
 <a href="/practice-guides">Guides to PSIP Practices</a><br/>
 
-<a href="/ptc-catalog/catalog/Catalog.html">PTC Catalog</a><br/>
+<a href="/ptc-catalog/catalog/">PTC Catalog</a><br/>
 
 ## Posts
 {% for post in site.posts %}
