@@ -1,15 +1,14 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
 
-<a href="/practice-guides">Guides to PSIP Practices</a><br/>
+Scientific software teams are typically focused on the creation of a new set of features that will enable the next set of computational experiments. Teams seldom have the time to stop development and focus solely on improving productivity or sustainability. However, teams can incorporate improvements on the way to developing new science capabilities.
 
-<a href="/ptc-catalog/catalog/">PTC Catalog</a><br/>
+The Productivity and Sustainability Improvement Planning (PSIP) process recognizes that productivity and sustainability improvements for scientific software benefit from an incremental, iterative approach.
 
-## Posts
+An ideal place to start learning about PSIP in the PSIP repo would be to start at the online [PSIP user manual/practice guides](/practice-guides/). These guides include a PSIP introduction, practice guides, and PSIP examples. A critical part of a PSIP progress is a Progress Tracking Card (PTC), which contains the goal of the planning activity and a step-by-step list of activities or outcomes to achieve the goal. An invaluable collection of PTC cards can be found in the [PTC Catalog](/ptc-catalog/).
+
+## Recent Activity
 {% for post in site.posts %}
 <div class="post-preview">
 <span class="post-title alignable pull-left">
