@@ -1,4 +1,7 @@
-# Adopting Continuous Integration for Long-Timescale Materials Simulation
+---
+layout: default
+title: "Adopting Continuous Integration for Long-Timescale Materials Simulation"
+---
 
 #### Contributed by [Richard Zamora](https://github.com/rjzamora "Rick Zamora's Github.io Profile")
 

@@ -1,4 +1,7 @@
-# What makes PSIP suitable for the Exascale Computing Project?
+---
+layout: default
+title: "What makes PSIP suitable for the Exascale Computing Project?"
+---
 
 #### Originally published at [BSSw.io](https://bssw.io/items/what-makes-psip-suitable-for-the-exascale-computing-project)
 

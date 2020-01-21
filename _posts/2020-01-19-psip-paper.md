@@ -1,4 +1,7 @@
-# Lightweight Software Process Improvement using Productivity and Sustainability Improvement Planning (PSIP)
+---
+layout: default
+title: "Lightweight Software Process Improvement using Productivity and Sustainability Improvement Planning (PSIP)"
+---
 
 #### Originally published at [BSSw.io](https://bssw.io/items/lightweight-software-process-improvement-using-productivity-and-sustainability-improvement-planning-psip)
 
