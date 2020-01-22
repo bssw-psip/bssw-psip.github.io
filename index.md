@@ -8,6 +8,8 @@ The Productivity and Sustainability Improvement Planning (PSIP) process recogniz
 
 An ideal place to start learning about PSIP in the PSIP repo would be to start at the online [PSIP user manual/practice guides](/practice-guides/). These guides include a PSIP introduction, practice guides, and PSIP examples. A critical part of a PSIP progress is a Progress Tracking Card (PTC), which contains the goal of the planning activity and a step-by-step list of activities or outcomes to achieve the goal. An invaluable collection of PTC cards can be found in the [PTC Catalog](/ptc-catalog/).
 
+[**Chat with PSIP team on Gitter**](https://gitter.im/bssw-psip/community)
+
 ## Recent Activity
 <ul>
 {% for post in site.posts %}
