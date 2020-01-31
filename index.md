@@ -10,7 +10,7 @@ Get Started with PSIP:
 
 - Take a [Team Practices Survey](/ptc-catalog/survey.html) to identify practices which could be improved.
 - [PSIP user manual and practice guides](/practice-guides/). These guides include a PSIP introduction, practice guides, and PSIP examples. 
-- Browse the [PTC Catalog](/ptc-catalog/). Progress Tracking Cards (PTCs) contain the goal of the planning activity and a numbered list of outcomes.
+- Browse the [PTC Catalog](/ptc-catalog/catalog). Progress Tracking Cards (PTCs) contain the goal of the planning activity and a numbered list of outcomes.
 - Chat with PSIP team [Gitter](https://gitter.im/bssw-psip/community)
 
 ## Recent Activity
