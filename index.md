@@ -6,12 +6,11 @@ Scientific software teams are typically focused on the creation of a new set of 
 
 The Productivity and Sustainability Improvement Planning (PSIP) process recognizes that productivity and sustainability improvements for scientific software benefit from an incremental, iterative approach.
 
-Get Started with PSIP:
+_Get Started with PSIP_:
 
-- Take a [Team Practices Survey](/ptc-catalog/survey.html) to identify practices which could be improved.
+- Visit [RateYourProject](https://rateyourproject.org). This is a self-assessment tool to help identify practices which could be improved.
 - [PSIP user manual and practice guides](/practice-guides/). These guides include a PSIP introduction, practice guides, and PSIP examples. 
 - Browse the [PTC Catalog](/ptc-catalog/catalog). Progress Tracking Cards (PTCs) contain the goal of the planning activity and a numbered list of outcomes.
-- Chat with PSIP team [Gitter](https://gitter.im/bssw-psip/community)
 
 ## Recent Activity
 <ul>
