@@ -26,6 +26,13 @@ in existence on how to build and test sites locally.
 
 See the main [GitHub Pages documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
 
+**NOTE**: If you are a developer on a Mac and using Ruby 3, please add the
+following line to the `Gemfile` before running `bundle install`:
+```
+gem "webrick"
+```
+This is a well-documented workaround to a [known bug](https://github.com/jekyll/jekyll/issues/8523).
+
 ## Acknowledgements
 
 The development of this site was supported by the Exascale Computing Project
