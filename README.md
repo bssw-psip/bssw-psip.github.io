@@ -5,7 +5,7 @@ is the main landing page that allows users a central portal to access guides,
 project tracking cards, and recent posts about Productivity and
 Sustainability Improvement Planning (PSIP).
 
-Though the content available in this portal, the user can explore the purposes
+Through the content available in this portal, the user can explore the purposes
 and procedures to enable use of the PSIP process for their project.
 
 This application is built using GitHub Pages on top of the suggested Jekyll
