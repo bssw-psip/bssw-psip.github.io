@@ -15,7 +15,7 @@ theme.
 
 The website is currently divided into three sections:
 
-- _Main Site_: This is the main site/home page. The source code can be found at https://github.com/bssw-psip/bssw-psip.github.io
+- _Main Site_: This is the main site/home page, <https://bssw-psip.github.io/>. The source code can be found at <https://github.com/bssw-psip/bssw-psip.github.io>.
 - _Practice Guides_: This subsite provides the guides for utilizing PSIP to improve team practices. The source code can be found at https://github.com/bssw-psip/practice-guides
 - _Project Tracking Card Catalog_: This subsite provides previously developed and example PTCs, for use in tracking improvement progress. The source code can be found at https://github.com/bssw-psip/ptc-catalog
 
